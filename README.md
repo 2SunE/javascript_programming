@@ -11,5 +11,5 @@
   </li> 
   <li>자바스크립트 강의 링크 👉 
     <a href="https://www.boostcourse.org/cs124/joinLectures/52258" target="_blank" rel="noopener">boostcourse</a>
-  </li>
+  </li> 
 </ul>
