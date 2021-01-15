@@ -1,0 +1,16 @@
+<html>
+<head>
+  <title>getElementById 예제</title>
+</head>
+<body>
+  <p id="p1">HTML</p>
+  <button onclick="changeColor('blue');">blue</button>
+  <button onclick="changeColor('red');">red</button>
+  <script>
+    function changeColor(newColor) {
+      var elem = document.getElementById('p1');
+      elem.style.color = newColor;
+    }
+  </script>
+</body>
+</html>
