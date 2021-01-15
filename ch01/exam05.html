@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <!-- night 버튼 위에 마우스를 올렸을 때, 배경 색이 회색으로 바뀌도록 만들어봅시다. -->
+    <h1>WEB</h1>
+    <input type="button" value="night"
+           onclick="document.querySelector('body').style.backgroundColor='black';
+                    document.querySelector('body').style.color='white';"
+           onmouseover="document.querySelector('body').style.backgroundColor='gray';
+    ">
+    <input type="button" value="day" onclick="
+      document.querySelector('body').style.backgroundColor='white';
+      document.querySelector('body').style.color='black';
+    ">
+  </body>
+</html>
