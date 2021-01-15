@@ -13,3 +13,7 @@
     <a href="https://www.boostcourse.org/cs124/joinLectures/52258" target="_blank" rel="noopener">boostcourse</a>
   </li> 
 </ul>
+
+<ol>
+  <li>웹과 Javascript<a href="https://sunnynara.tistory.com/3">(1)</a> <a href="https://sunnynara.tistory.com/4">(2)</a></li>
+</ol>
