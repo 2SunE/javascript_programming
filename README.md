@@ -20,4 +20,4 @@
 
 <ol>
   <li>웹과 Javascript<a href="https://sunnynara.tistory.com/3"> (1)</a> <a href="https://sunnynara.tistory.com/4">(2)</a></li>
-</ol>
+</ol> 
