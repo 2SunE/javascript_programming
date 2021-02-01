@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>생각해보기</h1>
+    <input type="button" value="night" onclick="
+      var target1 = document.querySelector('h1');
+      var target2 = document.querySelector('body');
+      if(target1.value === 'night') {
+        target2.style.backgroundColor = 'black';
+        target1.style.color = 'white';
+        target1.value = 'day';
+      }
+      else {
+        target2.style.backgroundColor = 'white';
+        target1.style.color = 'black';
+        target1.value = 'night';
+      }
+    ">
+  </body>
+</html>
