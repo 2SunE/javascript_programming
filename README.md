@@ -20,6 +20,6 @@
 
 <ol>
   <li>웹과 Javascript<a href="https://sunnynara.tistory.com/3"> (1)</a> <a href="https://sunnynara.tistory.com/4">(2)</a></li>
-  <li>반복문</li>
+  <li>Javascript 제어문<a href="https://sunnynara.tistory.com/9"> (1)</a> <a href="https://sunnynara.tistory.com/10">(2)</a></li>
 </ol> 
 
